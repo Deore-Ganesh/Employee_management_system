@@ -158,6 +158,6 @@ For support and questions, please open an issue on GitHub or contact the develop
 
 ---
 
-**Built with ❤️ for efficient workforce management**
+**Built with ❤️ for efficient workforce management by Ganesh deore**
 
 
